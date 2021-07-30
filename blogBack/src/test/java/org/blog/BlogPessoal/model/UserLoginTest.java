@@ -27,8 +27,6 @@ class UserLoginTest {
 	@BeforeEach
 	public void start() {
 
-		userLogin = new UserLogin("Zika", "zikaf24@gmail.com", "jkdskhasdhskjdf", "jhasfdjhaskjdfh");
-
 	};
 
 	@Test
